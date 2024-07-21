@@ -1,3 +1,5 @@
+//------------------Diamond pattern --------------
+
 package Java104;
 import java.util.*;
 public class Dimond_pattern {

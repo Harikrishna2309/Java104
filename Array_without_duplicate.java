@@ -1,5 +1,5 @@
+//Given an array of numbers. Print the numbers without duplication.
 package Java104;
-
 import java.util.*;
 
 public class Array_without_duplicate {

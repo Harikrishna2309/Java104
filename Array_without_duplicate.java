@@ -41,7 +41,7 @@ public class Array_without_duplicate {
 				}
 			}
 		}		
-//---------------------------------------------------
+//---------------------------------------------------git check
 		System.out.println("duplicate removed Array by loop");
 		printArray(arr,(size-dup_count));
 		
